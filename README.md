@@ -1,4 +1,5 @@
-TAREA-REACT
+<<<<<<< HEAD
+# TAREA-REACT
 
 # Getting Started with Create React App
 
@@ -70,3 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# TAREA-REACT
+>>>>>>> 0bcf2d5519b78f1f958c99ed5cb9055b75d074c6
